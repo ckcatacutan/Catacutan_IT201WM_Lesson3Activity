@@ -1,0 +1,10 @@
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\bin\Debug\Catacutan_IT201WM_Lesson3Activity.exe
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\bin\Debug\Catacutan_IT201WM_Lesson3Activity.exe.config
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.Form1.resources
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.Properties.Resources.resources
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.exe
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\obj\Debug\Catacutan_IT201WM_Lesson3Activity.pdb
+C:\Users\USER\Downloads\INTEG TRIAL ZIPS\Catacutan_IT201WM_Lesson3Activity-master\Catacutan_IT201WM_Lesson3Activity\bin\Debug\Catacutan_IT201WM_Lesson3Activity.pdb
